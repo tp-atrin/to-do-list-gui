@@ -19,7 +19,7 @@ git clone https://github.com/tp-atrin/to-do-list-gui.git
 ```
 pip install tk
 ```
-3. Run the 'todolist.py' script by typing the following command in your terminal or command prompt.
+3. Run the 'To-do-list-gui.py' script by typing the following command in your terminal or command prompt.
 ```
 python To-do-list-gui.py
 ```
